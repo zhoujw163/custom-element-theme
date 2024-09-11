@@ -1,0 +1,23 @@
+{
+  "name": "ele-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
+  "devDependencies": {
+    "element-theme-chalk": "^2.15.14"
+  },
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-css-wrap": "^0.1.2"
+  }
+}
